@@ -9,5 +9,6 @@ int d=12;
  c=a+b;
 e=a+d;
 printf("the value of d is :",& d);
+printf("the value of d is :",& es);
 printf("the value of c is :",&c);
 }
