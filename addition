@@ -5,8 +5,9 @@ void main()
  int a=10;
  int b=20;
 int d=12;
- int c;
+ int c,e;
  c=a+b;
+e=a+d;
 printf("the value of d is :",& d);
 printf("the value of c is :",&c);
 }
