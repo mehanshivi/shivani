@@ -7,5 +7,6 @@ void main()
 int d=12;
  int c;
  c=a+b;
+printf("the value of d is :",& d);
 printf("the value of c is :",&c);
 }
